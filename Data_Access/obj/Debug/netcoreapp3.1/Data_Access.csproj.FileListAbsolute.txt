@@ -1,0 +1,11 @@
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\bin\Debug\netcoreapp3.1\Data_Access.deps.json
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\bin\Debug\netcoreapp3.1\Data_Access.runtimeconfig.json
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\bin\Debug\netcoreapp3.1\Data_Access.runtimeconfig.dev.json
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\bin\Debug\netcoreapp3.1\Data_Access.dll
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\bin\Debug\netcoreapp3.1\Data_Access.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\obj\Debug\netcoreapp3.1\Data_Access.AssemblyInfoInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\obj\Debug\netcoreapp3.1\Data_Access.AssemblyInfo.cs
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\obj\Debug\netcoreapp3.1\Data_Access.csproj.CoreCompileInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\obj\Debug\netcoreapp3.1\Data_Access.dll
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\obj\Debug\netcoreapp3.1\Data_Access.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Data_Access\obj\Debug\netcoreapp3.1\Data_Access.genruntimeconfig.cache

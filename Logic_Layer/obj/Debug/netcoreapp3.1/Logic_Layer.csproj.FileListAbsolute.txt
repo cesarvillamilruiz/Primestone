@@ -1,0 +1,12 @@
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\bin\Debug\netcoreapp3.1\Logic_Layer.deps.json
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\bin\Debug\netcoreapp3.1\Logic_Layer.dll
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\bin\Debug\netcoreapp3.1\Logic_Layer.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.AssemblyInfoInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.AssemblyInfo.cs
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.csproj.CoreCompileInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.dll
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\bin\Debug\netcoreapp3.1\Data_Access.dll
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\bin\Debug\netcoreapp3.1\Data_Access.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.csprojAssemblyReference.cache
+E:\Desarrollo\ResposDePrueba\.Net\PrimeStone\Logic_Layer\obj\Debug\netcoreapp3.1\Logic_Layer.csproj.CopyComplete
